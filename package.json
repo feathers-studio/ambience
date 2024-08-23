@@ -1,0 +1,14 @@
+{
+	"name": "ambience",
+	"module": "index.ts",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"dependencies": {
+		"ts-parser": "github:feathers-studio/ts-parser"
+	}
+}
